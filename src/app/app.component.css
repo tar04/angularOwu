@@ -1,0 +1,10 @@
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+.posts{
+  max-height: 200px;
+  overflow: hidden;
+  overflow-y: auto;
+  width: 60%;
+}
